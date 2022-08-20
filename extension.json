@@ -1,0 +1,12 @@
+{
+  "id": "builtin.language-basics-editorconfig",
+  "name": "Language Basics Editorconfig",
+  "description": "Provides syntax highlighting and bracket matching in Editorconfig files.",
+  "languages": [
+    {
+      "id": "editorconfig",
+      "extensions": [".editorconfig"],
+      "tokenize": "src/tokenizeEditorConfig.js"
+    }
+  ]
+}
