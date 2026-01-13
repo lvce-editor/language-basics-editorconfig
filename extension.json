@@ -5,8 +5,11 @@
   "languages": [
     {
       "id": "editorconfig",
-      "extensions": [".editorconfig"],
+      "extensions": [
+        ".editorconfig"
+      ],
       "tokenize": "src/tokenizeEditorConfig.js"
     }
-  ]
+  ],
+  "repository": "https://github.com/lvce-editor/language-basics-editorconfig"
 }
